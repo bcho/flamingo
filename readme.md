@@ -1,5 +1,7 @@
 # Flamingo [WIP]
 
+[![Build Status](https://travis-ci.org/bcho/flamingo.svg)](https://travis-ci.org/bcho/flamingo)
+
 A simple CMS bases on [Laravel 5][laravel-5].
 
 
@@ -16,6 +18,7 @@ A simple CMS bases on [Laravel 5][laravel-5].
 - [ ] tests
 - [ ] twig templating
 - [ ] widgets
+- [ ] docs
 
 
 [laravel-5]: http://laravel.com/
